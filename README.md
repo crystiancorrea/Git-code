@@ -9,3 +9,4 @@
 *teste
 *adssadsa
 *git pull
+*git fetch
