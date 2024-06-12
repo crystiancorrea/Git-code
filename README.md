@@ -8,3 +8,4 @@
 * comando git push
 *teste
 *adssadsa
+*git pull
